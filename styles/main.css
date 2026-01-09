@@ -109,11 +109,7 @@ nav .btn-nav:hover {
 
 }
 
-.banner-subheading img {
-    max-width: 30px;
-    height: 30px;
-    padding-top: 16px;
-}
+
 
 .banner-subheading p {
     /* border: 1px solid red; */
@@ -234,7 +230,7 @@ nav .btn-nav:hover {
     justify-content: center;
     text-align: center;
     background-color: rgba(250, 235, 215, 0.495);
-    box-shadow: 10px 10px rgba(173, 216, 230, 0.299);
+    box-shadow: 10px 10px rgba(173, 216, 230, 0.258);
     border: 1px solid rgba(250, 235, 215, 0.769);
     margin-bottom: 30px;
 
