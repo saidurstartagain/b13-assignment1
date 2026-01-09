@@ -242,6 +242,7 @@ nav .btn-nav:hover {
     font-size: 16px;
     color: #627382;
     margin-top: 15px;
+    margin-bottom: 80px;
 
 
 }
@@ -263,4 +264,54 @@ nav .btn-nav:hover {
     margin-bottom: 30px;
     border-radius: 50%;
     padding: 15px;
+}
+
+#brain-section {
+    display: flex;
+
+}
+
+.brain-content {
+    max-width: 700px;
+    height: 397px;
+    /* border: 1px solid red; */
+    margin-top: 100px;
+
+}
+
+.brain-solution {
+    font-size: 20px;
+    color: #30B868;
+    font-weight: 600;
+}
+
+.brain-content h2 {
+    font-size: 48px;
+    color: #001931;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.brain-content p {
+    font-size: 16px;
+    color: #627382;
+    margin-bottom: 30px;
+}
+
+.brain-content ul {
+    list-style: none;
+}
+
+.brain-content ul li {
+    font-size: 20px;
+    color: black;
+    font-weight: 500;
+    padding: 5px;
+
+
+}
+
+.fas {
+    color: #30B868;
+    margin-right: 10px;
 }
