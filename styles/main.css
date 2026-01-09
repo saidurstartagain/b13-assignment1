@@ -4,6 +4,12 @@
     box-sizing: border-box;
 }
 
+
+.inter-font {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+}
+
 nav {
     max-width: 1600px;
     height: 92px;
@@ -127,11 +133,13 @@ nav .btn-nav:hover {
 
 .thinking {
     color: #ffffff;
+    font-size: 65px;
 
 }
 
 .note-taking {
     color: #30B868;
+    font-size: 65px;
 }
 
 .banner-text {
