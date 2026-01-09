@@ -228,7 +228,14 @@ nav .btn-nav:hover {
     background-color: rgba(250, 235, 215, 0.495);
     box-shadow: 10px 10px rgba(173, 216, 230, 0.299);
     border: 1px solid rgba(250, 235, 215, 0.769);
+    margin-bottom: 30px;
 
+
+}
+
+.card:hover {
+    background-color: rgba(100, 209, 23, 0.495);
+    box-shadow: 10px 10px rgba(185, 159, 27, 0.299);
 }
 
 .card h3 {
@@ -378,4 +385,54 @@ nav .btn-nav:hover {
 .get-early-access p {
     font-size: 16px;
     color: #627382;
+}
+
+#footer {
+    max-width: 1600px;
+    height: 348px;
+    border: 1px solid #001931f3;
+    background-color: #001931f3;
+
+}
+
+.footer-and-social {
+    margin: 120px 120px 80px 120px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-and-social img {}
+
+.social-and-icon p {
+    font-size: 20px;
+    font-weight: 500;
+    color: #ffffff;
+    margin-bottom: 10px;
+
+}
+
+.social-icon a {
+    color: #ffffff;
+    padding: 5px;
+}
+
+.social-icon a:hover {
+    color: #000000;
+}
+
+.copyright-at-footer {
+    width: 1360px;
+    height: 24px;
+    justify-content: center;
+    text-align: center;
+    margin: 0px 120px 30px 120px;
+
+
+}
+
+.copyright-at-footer p {
+    font-size: 16px;
+    color: #FAFAFA;
+    margin-top: 30px;
 }
