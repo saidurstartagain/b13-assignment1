@@ -311,7 +311,71 @@ nav .btn-nav:hover {
 
 }
 
-.fas {
+.brain-content .fas-icon {
     color: #30B868;
     margin-right: 10px;
+}
+
+#get-early-section {
+    max-width: 1360px;
+    height: 385px;
+    border: 1px solid #F7F6F2;
+    justify-content: center;
+    text-align: center;
+    margin: 10px 120px 120px 120px;
+    background-color: #F7F6F2;
+
+}
+
+#get-early-section .ready-to-think {
+    /* border: 1px solid red; */
+    max-width: 1280px;
+    height: 113px;
+    margin: 80px 40px 24px 40px;
+
+}
+
+#get-early-section .ready-to-think h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 10px;
+
+}
+
+#get-early-section .ready-to-think p {
+    font-size: 16px;
+    color: #627382;
+
+}
+
+.get-early-access {
+    max-width: 1280px;
+    height: 88px;
+
+}
+
+.btn-early-access {
+    max-width: 194px;
+    height: 52px;
+    background-color: #30B868;
+    color: #ffffff;
+    font-weight: 600;
+    padding: 20px;
+    font-size: 16px;
+    border: 1px solid #30B868;
+    cursor: pointer;
+    margin-bottom: 20px;
+
+
+}
+
+.btn-early-access:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.get-early-access p {
+    font-size: 16px;
+    color: #627382;
 }
