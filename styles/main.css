@@ -68,3 +68,127 @@ nav .btn-nav:hover {
     color: #000000;
     background-color: aqua;
 }
+
+#banner {
+    border: 1px solid white;
+    max-width: 1600px;
+    height: 674px;
+    background: url(../assets/hero-bg.png);
+
+
+}
+
+#banner .banner-content {
+    max-width: 1360px;
+    height: 380px;
+    margin: 115px 120px 179px 120px;
+    /* border: 1px solid red; */
+}
+
+/* #banner .banner-content .banner-main-content {} */
+
+.banner-subheading {
+    max-width: 350px;
+    height: 50px;
+    margin: 0px 555px 16px 555px;
+    /* border: 1px solid red; */
+    background-color: #ffffff;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #30B868;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+.banner-subheading img {
+    max-width: 30px;
+    height: 30px;
+    padding-top: 16px;
+}
+
+.banner-subheading p {
+    /* border: 1px solid red; */
+
+    padding-top: 15px;
+    text-align: center;
+}
+
+.banner-heading {
+    margin: 0px 300px 5px 350px;
+}
+
+.banner-heading h1 {
+    font-size: 70px;
+
+}
+
+.thinking {
+    color: #ffffff;
+
+}
+
+.note-taking {
+    color: #30B868;
+}
+
+.banner-text {
+    justify-content: center;
+    text-align: center;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.banner-text-p1 {
+    margin-bottom: 10px;
+}
+
+.banner-btns {
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+
+
+}
+
+.banner-btns .btn-start {
+    max-width: 400px;
+    height: 52px;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #30B868;
+    color: #ffffff;
+    cursor: pointer;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid #30B868;
+
+
+}
+
+.btn-start:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.btn-works {
+    max-width: 400px;
+    height: 52px;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: none;
+    color: #ffffff;
+    margin-left: 10px;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+    background-color: #0000001f;
+}
+
+.btn-works:hover {
+    background-color: #30B868;
+    color: #000000;
+}
